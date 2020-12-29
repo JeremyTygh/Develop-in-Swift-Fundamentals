@@ -7,3 +7,10 @@ https://books.apple.com/us/book/develop-in-swift-fundamentals/id1511184145
 
 ## Below are screenshots of the projects running on a simulated iPhone 12
 Click on images to view them in a larger size!
+
+### Personality Quiz
+###### A personality quiz where players are presented with a light-hearted topic and answer questions that align them to a particular outcome. In this instance, players answer questions to answer the question: "Which animal are you?". 
+###### Intended as an exercise in utilizing the mechanism provided by the UIKit framework for managing the flow of the app. Also serves as a review of the mangaement of the position and size of views and controls using Auto Layout and stack views.
+
+<img src="https://user-images.githubusercontent.com/55996049/103301151-b5602600-49ce-11eb-979f-5bbdda3a9cfe.png"" width="200">
+
