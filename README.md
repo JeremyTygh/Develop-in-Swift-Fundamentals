@@ -10,7 +10,7 @@ Click on images to view them in a larger size!
 
 ### Apple Pie Game
 ###### A simple word-guessing game, in which each player has a limited number of turns to guess the letters in a word. Each incorrect guess results in an apple falling off the tree. The player wins by guessing the word correctly before all the apples are gone. (Developed exclusivley for the iPad)
-###### Intended as an exercise in utilizing the mechanisms provided by the UIKit framework for managing the flow of the app. Also serves as a review of the mangaement of the position and size of views and controls using Auto Layout and stack views.
+###### Intended as an exercise in utilizing the mechanisms provided by the UIKit framework for managing the flow of the app. Also serves as a review for managing the position and size of views and controls using Auto Layout and stack views.
 
 <img src="https://user-images.githubusercontent.com/55996049/103301936-73d07a80-49d0-11eb-8b44-1f6c70cf9d46.png" width="350">
 
