@@ -25,8 +25,24 @@ Click on images to view them in a larger size!
 
 <img src="https://user-images.githubusercontent.com/55996049/103302299-4e903c00-49d1-11eb-8745-6bcca1ddf11e.png" width="200">
 
-
 <img src="https://user-images.githubusercontent.com/55996049/103302346-6d8ece00-49d1-11eb-9a65-85b296fbb312.png" width="200">
+
+## Below are screenshots of some labs running on a simulated iPhone 12
+
+### Calculator Interface
+###### A simple interface that resembles a calculator app. 
+###### Intended as an exercise in interface building using stacks, views, and constraints. *Calculator doesn't actually function :)*
+
+<img src="https://user-images.githubusercontent.com/55996049/103303078-1a1d7f80-49d3-11eb-9481-82de5f45435a.png" width="200">
+
+### Rainbow Tabs
+###### A simple interface that uses a tab bar controller to move from color to color. 
+###### Intended as an introduction to the UITabBarController class.
+
+<img src="https://user-images.githubusercontent.com/55996049/103303072-1853bc00-49d3-11eb-936f-166ddc66bd03.png" width="200">
+
+
+
 
 
 
