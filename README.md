@@ -14,6 +14,8 @@ Click on images to view them in a larger size!
 
 <img src="https://user-images.githubusercontent.com/55996049/103301936-73d07a80-49d0-11eb-8b44-1f6c70cf9d46.png" width="350">
 
+<img src="https://user-images.githubusercontent.com/55996049/103302118-daee2f00-49d0-11eb-9e01-31459e7a9ebd.png" width="350">
+
 
 ### Personality Quiz
 ###### A personality quiz where players are presented with a light-hearted topic and answer questions that align them to a particular outcome. In this instance, players answer questions to answer the question: "Which animal are you?". 
