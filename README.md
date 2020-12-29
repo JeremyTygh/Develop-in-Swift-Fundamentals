@@ -18,7 +18,7 @@ Click on images to view them in a larger size!
 
 
 ### Personality Quiz
-###### A personality quiz where players are presented with a light-hearted topic and answer questions that align them to a particular outcome. In this instance, players answer questions to answer the question: "Which animal are you?". 
+###### A personality quiz where players are presented with a light-hearted topic and answer questions that align them to a particular outcome. In this instance, players answer questions to find out: "Which animal are you?". 
 ###### Intended as an exercise in the basics of UIKit, the foundation of iOS development. Serves as practice for displaying simple information with views, and responding to user input with a variety of controls. 
 
 <img src="https://user-images.githubusercontent.com/55996049/103301151-b5602600-49ce-11eb-979f-5bbdda3a9cfe.png" width="200">
